@@ -6,6 +6,6 @@ Python
 
 
 ###Ciphers ###
-addative cipher
-multiplicative cipher
-affinative cipher
+* addative cipher
+* multiplicative cipher
+* affinative cipher
